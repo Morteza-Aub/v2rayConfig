@@ -14,6 +14,6 @@ const addCourse = (course) => {
   return true;
 };
 
-const testFunc = ()=>{
-  return true;
-}
+const test = (value) => {
+  return Boolean(value);
+};
