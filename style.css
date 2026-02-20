@@ -1,6 +1,7 @@
 body {
   display: flex;
 }
+<<<<<<< HEAD
 
 h1 {
   color: black;
@@ -12,3 +13,5 @@ h2 {
   background-color: #333;
   text-align: center;
 }
+=======
+>>>>>>> refs/remotes/origin/main
