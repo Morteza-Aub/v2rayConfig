@@ -17,3 +17,7 @@ const addCourse = (course) => {
 const test = (value) => {
   return Boolean(value);
 };
+
+const newY = (user) => {
+  return true;
+};
