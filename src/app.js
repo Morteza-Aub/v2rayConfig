@@ -3,7 +3,7 @@ const isLogin = (user) => {
 };
 
 const register = (user) => {
-  return true;
+  return user;
 };
 
 const getMe = (user) => {
